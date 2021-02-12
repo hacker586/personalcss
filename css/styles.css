@@ -36,6 +36,7 @@ img{
   margin: 20px auto;
   color:  #314e52;
 }  
+    
 .self
 {
 	font-size: 2.5rem;
@@ -47,13 +48,18 @@ img{
 {
 	margin-top: 675px;
 }
+.skill-row
+{
+	margin:100px;
+}
 .contact-me
 {
-	margin-left: 32%;
+	margin-left: 25%;
 }
 .bottom-container
 {
-	margin-left: 32%;
+	margin-left: 25%;
+	
 }
 .boy
 {
@@ -63,6 +69,14 @@ img{
 .footer-link
 {
 	margin: 20px 5%;
+	background-color: #4CAF50; /* Green */
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
 }
 
 
